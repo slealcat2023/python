@@ -13,7 +13,7 @@ for number in numbers:
 print ("The product is: ", product)
 
 print("")
-print("")
+print("") #Este es un comentario
 
 vuelta = 1
 while vuelta <= 10:
