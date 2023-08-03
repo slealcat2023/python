@@ -27,7 +27,14 @@ while vuelta <= 10:
             print("Marquitos")
         case other:
             print ("No match")
-
+#    if int((vuelta<2)):
+#        print("Sergio")
+#    elif int((vuelta==2)):
+#            print("Mi kike")
+#    elif int((vuelta==3)):
+#            print("Mi Marquitos")
+#    else:
+#        print("el resto del mundo")
     vuelta = vuelta + 1
 
 
