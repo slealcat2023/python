@@ -1,13 +1,13 @@
 body
 {
     color: #333;
-    text-align: left;
+    text-align: center;
     font-family: "Arial";
     font-size: 16px;
     margin: 0;
     padding: 0;
 }
-#contaiter
+#container
 {
     width: 70#;
     padding: 1em;
