@@ -4,6 +4,7 @@ Sergio Tiene 58 años y nació en Guatemala
 
    Sergio en el curso de platzi agrego a otro usuario para ver como funciona estando trabajando en equipo
 
+   algo pasa pero quiero entender bien todo este fantastico mundo de git
 
 /usr/bin/bash: line 1: Q: command not found
 
