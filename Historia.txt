@@ -2,6 +2,9 @@ esta es la historia de Sergio Leal
 
 Sergio Tiene 58 años y nació en Guatemala
 
-Hoy hablaremos de su historia.
+   Sergio en el curso de platzi agrego a otro usuario para ver como funciona estando trabajando en equipo
 
-mañana nos enfocaremos en su vida laboral
+
+/usr/bin/bash: line 1: Q: command not found
+
+   Mañana nos enfocaremos en su vida laboral
