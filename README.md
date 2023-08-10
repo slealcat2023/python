@@ -1,2 +1,2 @@
 # python
-para aprender a programar en py
+para aprender a programar en python y lo magico de Git
